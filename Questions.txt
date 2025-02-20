@@ -1,0 +1,9 @@
+Questions 
+1. How do sales vary across different months?
+2. Which product categories contribute the most to sales?
+3.Which product sub-categories generate the highest sales?
+4.How does profit fluctuate across different months?
+5.Which product categories and sub-categories are most profitable?
+6.Which customer segments are the most valuable in terms of sales and profit?
+7.What is the ratio of sales to profit for different segments?
+
