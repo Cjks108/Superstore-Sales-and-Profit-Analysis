@@ -49,7 +49,7 @@ The dataset contains information on **orders, sales, profits, and customer segme
 - **Python**  
 - **Pandas** – Data Manipulation  
 - **Plotly** – Data Visualization  
-- **Jupyter Notebook ** – IDEs used for analysis  
+- **Jupyter Notebook** – IDEs used for analysis  
 
 ## 📌 Future Enhancements  
 🔹 Develop an **interactive dashboard** for real-time exploration.  
